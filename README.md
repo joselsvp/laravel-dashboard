@@ -9,5 +9,8 @@
 
 ## About Laravel
 
-Para instalar jetstream se introduce el comando --jet solo se puede instalar en proyector nuevos
-después se tiene que realizar una migración
+<ul>
+    <li>Para instalar jetstream se introduce el comando --jet solo se puede instalar en proyector nuevos </li>
+    <li>después se tiene que realizar una migración</li>
+</ul>
+
